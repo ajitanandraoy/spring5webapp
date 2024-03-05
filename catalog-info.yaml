@@ -4,6 +4,7 @@ metadata:
   name: spring5webapp
   annotations:
     github.com/project-slug: ajitanandraoy/spring5webapp
+    backstage.io/techdocs-ref: README.md
 spec:
   type: other
   lifecycle: unknown
